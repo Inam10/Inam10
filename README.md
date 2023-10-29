@@ -1,7 +1,7 @@
 <!-- # Inam10
  My profile page. -->
 
-![github-header-image (1)]([https://github.com/Inam10/github-header-image.png](https://github.com/Inam10/Inam10/blob/main/github-header-image.png?raw=true))
+![github-header-image (1)](https://github.com/Inam10/Inam10/blob/main/github-header-image.png?raw=true)
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Inam10&label=Profile%20views&color=0e75b6&style=flat" alt="Inam10" /> </p>
 
