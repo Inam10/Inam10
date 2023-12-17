@@ -11,7 +11,7 @@
 <!-- - 👨‍💻 All of my projects are available at [https://Inam10.github.io/projects/#/](https://Inam10.github.io/projects//#/) -->
 
 
-- 💬 Ask me about **JavaScript, React , Html**
+- 💬 Ask me about **java,JavaScript, React , Html,CSS,Tailwind**
 
 - 📫 How to reach me **inamm94@gmail.com**
 
